@@ -45,7 +45,7 @@ if(faltas < 64 * 0.75 && media >= 6.0){
     printf("\nAprovado.");
 }
     else if(media < 6.0){
-        printf("\nReprovado por nota.");    
+        printf("\nReprovado.");    
     }
     else if(faltas >= 64 * 0.75){
         printf("\nReprovado por falta.");

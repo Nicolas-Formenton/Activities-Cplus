@@ -19,7 +19,7 @@ int main(void)
 //Multiplicação
 
  multiplicacao = num1*num2*num3;
- printf("%f", multiplicacao);
+ printf("%.1f", multiplicacao);
 
 
 
